@@ -1,0 +1,20 @@
+{
+  "name": "@easyke/listener",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/listener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8.6.0",
+    "npm": ">=5.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easyke/node-listener.git"
+  }
+}
